@@ -43,12 +43,5 @@
     "webpack": "^5.12.2",
     "webpack-cli": "^4.3.1",
     "webpack-dev-server": "^3.11.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm test",
-      "...": "..."
-    }
   }
 }
